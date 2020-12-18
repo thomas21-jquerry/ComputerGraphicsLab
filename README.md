@@ -1,6 +1,6 @@
 # pyopengl_lab
 
-## Installation Refer [PyopenGL Installation](https://kiranmurali93.github.io/blog/post/pyopengl/)
+## Installation Refer [PyopenGL Installation]
 
 # PyOpenGL lab experiments 
 
