@@ -6,28 +6,28 @@
 
 1. Origin - plotes a point
 
-2. a)[experiment1 with lines](https://github.com/kiranmurali93/pyopengl_lab/blob/master/experiment1usinglines.py) - option based program that draws Horizontal, Vertical and Diagonal Lines based on User Inputs 
+2. a)experiment1 with lines- option based program that draws Horizontal, Vertical and Diagonal Lines based on User Inputs 
 
-   b)[experiment1 with points](https://github.com/kiranmurali93/pyopengl_lab/blob/master/experiment1_with_points.py) - option based program that draws Horizontal, Vertical and Diagonal Lines based on User Inputs
+   b)[experiment1 with points] - option based program that draws Horizontal, Vertical and Diagonal Lines based on User Inputs
    
 ## Line Drawing Algo
-3. [ddaAlgo](https://github.com/kiranmurali93/pyopengl_lab/blob/master/ddaAlgo.py) - Implemention of DDA algorithm
+3. [ddaAlgo] - Implemention of DDA algorithm
 
-4. [BresenhamAlgo](https://github.com/kiranmurali93/pyopengl_lab/blob/master/BresenhamAlgo.py) - Implemention of Bresenham algorithm
+4. [BresenhamAlgo] - Implemention of Bresenham algorithm
 
-5. [midpoint_linealgo](https://github.com/kiranmurali93/pyopengl_lab/blob/master/midpoint_linealgo.py) - Mid-Point Line Drawing algorithm
+5. [midpoint_linealgo] - Mid-Point Line Drawing algorithm
 
 ## Circle Drawing Algo
 
-6. [circle_drawing_algo.py](https://github.com/kiranmurali93/pyopengl_lab/blob/master/circle_drawing_algo.py) - circle Drawing algorithm (midpoit, polar, non-polar)
+6. [circle_drawing_algo.py] - circle Drawing algorithm (midpoit, polar, non-polar)
 
 ## Ellpise Drawing Algo
 
-7. [Ellipse_drawing_algo.py](https://github.com/kiranmurali93/pyopengl_lab/blob/master/ellipse_algo.py) - Ellipse drawing algorithm (Polar, non polar)
+7. [Ellipse_drawing_algo.py] - Ellipse drawing algorithm (Polar, non polar)
 
 ## 2D Transformation of a triangle
 
-8. [2dTransformation.py](https://github.com/kiranmurali93/pyopengl_lab/blob/master/2dTransformation.py)
+8. [2dTransformation.py]
 
 ## Cohen Sutherland Line Clipping algorithm, Sutherland Hodgeman polygon clipping
-9. [Clipping algorithms.py](https://github.com/kiranmurali93/pyopengl_lab/blob/master/Clipping%20algorithms.py)
+9. [Clipping algorithms.py]
